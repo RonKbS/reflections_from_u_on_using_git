@@ -1,5 +1,17 @@
 Checking out what happens when repo online is different from local
 
-When would you want to use a remote repository rather than keeping all your work local?
+--When would you want to use a remote repository rather than keeping all your work local?
 
 In my case, it's not safe so any time I lose my pc, at least I have an online backup
+
+--Why might you want to always pull changes manually rather than having Git
+ automatically stay up-to-date with your remote repository?
+
+Pulling changes leaves you with control incase any unwanted
+changes have been made
+
+--Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+Forks operate in github and have same functionality as clones, clones work 
+btn locall and github, creating repos on local, branches are tracks taken 
+for differnet commits from one parent commit
