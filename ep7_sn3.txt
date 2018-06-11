@@ -1,1 +1,5 @@
 Checking out what happens when repo online is different from local
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+In my case, it's not safe so any time I lose my pc, at least I have an online backup
