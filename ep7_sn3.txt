@@ -32,3 +32,8 @@ On the other hand, that would take time
 stored locally?
 With this copy I'm able to make merges incase I update my local or an update
 is available in the hub
+
+--How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+I'd collaborate using slack. But that would probably be harder because utilizing
+commits is not possible there
