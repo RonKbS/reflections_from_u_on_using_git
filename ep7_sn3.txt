@@ -37,3 +37,9 @@ is available in the hub
 and what would be harder?
 I'd collaborate using slack. But that would probably be harder because utilizing
 commits is not possible there
+
+--When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+I'd want to do this if I'm collaboarting with other people. I'd have more 
+control over the original branch when doing this and working in a team coz
+changes wouldn't be made willy-nilly
